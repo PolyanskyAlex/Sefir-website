@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.intro {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.tariff {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.tariff:last-of-type {
+    border-bottom: none;
+}
+
+.tariff-details {
+    margin-left: 20px;
+}
+
+.tariff-details p {
+    margin-bottom: 10px;
+}
+
+.note {
+    font-style: italic;
+    margin-top: 20px;
+    color: #666666;
+}
+
+.contacts ul {
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.contacts li {
+    margin-bottom: 8px;
+}
+
+.legal {
+    margin-left: 20px;
+}
+
+.legal p {
+    margin-bottom: 10px;
+}
+
+strong {
+    font-weight: bold;
+}
