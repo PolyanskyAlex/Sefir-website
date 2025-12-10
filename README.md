@@ -18,3 +18,4 @@
 ## GitHub Pages
 
 Сайт автоматически публикуется через GitHub Pages при каждом push в ветку `main`.
+
